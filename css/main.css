@@ -284,7 +284,7 @@ a:hover, a:focus {
    Main styles
    ========================================================================== */
 header {
-  background: url(../img/restaurant.jpg) #231f20 no-repeat center center fixed;
+  background: url(../img/restaurant-shadow.jpeg) #231f20 no-repeat center center fixed;
   /*background: url(../img/header-bg.jpg) no-repeat center center;*/
   width: 100%;
   padding: 20px 10px 60px 10px;
@@ -611,7 +611,10 @@ footer {
 }
 
 
-
+#mce-EMAIL{
+  align-items: flex-start;
+  width: 300px;
+}
 
 /* ==========================================================================
    Mobile styles
