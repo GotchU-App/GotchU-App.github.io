@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/GotchU-App/GotchU-App.github.io#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-minify": "0.0.15"
   }
 }
