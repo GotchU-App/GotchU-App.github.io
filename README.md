@@ -1,9 +1,9 @@
 # gotchuapp.github.io
 ## Landing Page Website for GotchU App: Hangry? We GotchU.
 
-## Learn more and sign up for our beta version on our [website](gotchuapp.co)
+### Learn more and sign up for our beta version on our [website](gotchuapp.co)
 
-## Connect with us on
+### Connect with us on
 
 [Twitter](http://wwwtwitter.com/_gotchuapp)
 
@@ -13,4 +13,4 @@
 
 [Instagram](http://www.instagram.com/gotchuapp)
 
-## Email us at hello@gotchuapp.co
+### Email us at hello@gotchuapp.co
