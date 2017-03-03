@@ -284,7 +284,6 @@ a:hover, a:focus {
    ========================================================================== */
 header {
   background: url(../img/restaurant-shadow.jpeg) #231f20 no-repeat center center;
-  /*background: url(../img/header-bg.jpg) no-repeat center center;*/
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
