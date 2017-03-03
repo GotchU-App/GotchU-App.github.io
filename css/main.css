@@ -275,7 +275,6 @@ a:hover, a:focus {
 
 .logo img {
 	margin-top: 6px;
-  /*width: 20%;*/
 }
 
 
@@ -503,10 +502,6 @@ footer {
 }
 
 
-/*#mce-EMAIL{
-  align-items: flex-start;
-  width: 300px;
-}*/
 
 /* ==========================================================================
    Mobile styles
