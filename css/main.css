@@ -449,10 +449,9 @@ hr.line {
   padding-right: 20px;
 }
 
-@media all and (max-width: 480px) {
+@media all and (max-width: 500px) {
     .news-img {
       width: 100%;
-      /*display: block;*/
     }
 }
 
