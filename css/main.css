@@ -446,12 +446,14 @@ hr.line {
 }
 
 .news-img {
+  padding-left: 20px;
   padding-right: 20px;
 }
 
 @media all and (max-width: 500px) {
     .news-img {
-      width: 100%;
+      width: 98%;
+      padding-bottom: 10px;
     }
 }
 
