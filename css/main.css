@@ -449,6 +449,13 @@ hr.line {
   padding-right: 20px;
 }
 
+@media all and (max-width: 480px) {
+    .news-img {
+      width: 100%;
+      /*display: block;*/
+    }
+}
+
 footer {
   background: #ffffff;
   padding: 40px 0px;
@@ -611,10 +618,10 @@ footer {
 }
 
 
-#mce-EMAIL{
+/*#mce-EMAIL{
   align-items: flex-start;
   width: 300px;
-}
+}*/
 
 /* ==========================================================================
    Mobile styles
