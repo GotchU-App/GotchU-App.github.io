@@ -7,9 +7,7 @@
 
 [Twitter](http://wwwtwitter.com/_gotchuapp)
 
-
 [Facebook](http://www.facebook.com/gotchuapp)
-
 
 [Instagram](http://www.instagram.com/gotchuapp)
 
