@@ -1,0 +1,19 @@
+{
+  "name": "gotchu-app-landing-page",
+  "version": "1.0.0",
+  "description": "### Learn more and sign up for our beta version on our [website](gotchuapp.co)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GotchU-App/GotchU-App.github.io.git"
+  },
+  "author": "Gotchu App, Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GotchU-App/GotchU-App.github.io/issues"
+  },
+  "homepage": "https://github.com/GotchU-App/GotchU-App.github.io#readme"
+}
