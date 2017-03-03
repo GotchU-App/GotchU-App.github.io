@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GotchU-App/GotchU-App.github.io/issues"
   },
-  "homepage": "https://github.com/GotchU-App/GotchU-App.github.io#readme"
+  "homepage": "https://github.com/GotchU-App/GotchU-App.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
