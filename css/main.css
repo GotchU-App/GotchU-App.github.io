@@ -15,6 +15,10 @@ h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, sma
   font-family: 'Montserrat', sans-serif;
 }
 
+#pricing{
+  background-color: #70cbce;
+}
+
 p, .lead {
 	font-family: 'Raleway', sans-serif;
 }
@@ -30,7 +34,7 @@ h1 {
 h2 {
   font-size: 40px;
   line-height: 40px;
-  etter-spacing: -0.5px;
+  letter-spacing: -0.5px;
   color: #ffffff;
   font-weight: 700;
 }
@@ -45,7 +49,6 @@ h3 {
 
 .lead {
   font-size: 21px;
-  font-weight: 600;
   line-height: 26px;
   color: #ffffff;
   /*color: #ff5b00;*/
@@ -284,6 +287,7 @@ a:hover, a:focus {
    ========================================================================== */
 header {
   background: url(../img/restaurant-shadow.jpeg) #231f20 no-repeat center center;
+  /*background: url(../img/header-bg.jpg) no-repeat center center;*/
   width: 100%;
   padding: 20px 10px 60px 10px;
   height: 100vh;
@@ -373,7 +377,7 @@ header {
 }
 
 #be-the-first {
-  background: url(../img/background.jpg) #31336c no-repeat center center fixed;
+  /*background: url(../img/background.jpg) #31336c no-repeat center center fixed;*/
   min-height: 300px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -381,14 +385,19 @@ header {
   background-size: cover;
 }
 
+.video-sum{
+  color: #31336C;
+}
+
+
 hr.line {
 	width: 100%;
 	border: 2px solid;
 }
 
 .purple {
-	border-color: #6d3f96;
-	color: #6d3f96;
+	border-color: #31336C;
+	color: #31336C;
 }
 
 .blue {
@@ -403,17 +412,21 @@ hr.line {
 
 .iphone {
     position: relative;
-    height: 200px;
+    text-align: center;
 }
 
-.iphone img {
+.gotchu-vid{
+  max-width: 100%;
+}
+
+/*.iphone img {
     margin: 0 auto;
     position: absolute;
     left: 0;
     right: 0;
     width: 100%;
     max-width: 440px;
-}
+}*/
 
 
 #invite {
