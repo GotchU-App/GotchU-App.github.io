@@ -305,7 +305,7 @@ header {
   left: 0;
   right: 0;
   margin-left: 0px;
-  margin-bottom: 12%;
+  margin-bottom: 18%;
 }
 
 .signin {
@@ -543,6 +543,10 @@ footer {
 
 }
 
+.header-info{
+  margin-bottom: 50%;
+}
+
 
 /* Landscape phone to portrait tablet */
 @media (min-width: 481px) and (max-width: 767px) {
@@ -550,6 +554,7 @@ footer {
 #be-the-first {
       background-attachment: scroll;
   }
+
 
 }
 
