@@ -541,11 +541,13 @@ footer {
       background-attachment: scroll;
   }
 
+.header-info{
+  margin-bottom: 40%;
 }
 
-.header-info{
-  margin-bottom: 50%;
 }
+
+
 
 
 /* Landscape phone to portrait tablet */
