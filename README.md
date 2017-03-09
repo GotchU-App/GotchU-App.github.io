@@ -1,9 +1,6 @@
 # gotchuapp.github.io
 Landing Page Website for GotchU App: The Solution For Indecisive Diners
 
-## Getting Started
-
-
 ## Installing
 Clone Directory: $ git clone https://github.com/GotchU-App/GotchU-App.github.io.git
 
@@ -52,25 +49,12 @@ After your push to the master branch, your Project Pages site will be available 
 Note that Pages are always publicly accessible when published, even if their repository is private.
 
 
-
-
-
-
-
-
-
-
-
-
+## Other Stuff
 
 ### Learn more and sign up for our beta version on our [website](gotchuapp.co)
-
 ### Connect with us on
-
 [Twitter](http://wwwtwitter.com/_gotchuapp)
-
 [Facebook](http://www.facebook.com/gotchuapp)
-
 [Instagram](http://www.instagram.com/gotchuapp)
 
 ### Email us at hello@gotchuapp.co
