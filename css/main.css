@@ -10,9 +10,14 @@ h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, sma
   background-color: #70cbce;
 }
 
+.rest-desc{
+  color: #231f20;
+}
+
 p, .lead {
 	font-family: 'Raleway', sans-serif;
 }
+
 
 h1 {
   font-size: 55px;
@@ -266,6 +271,11 @@ a:hover, a:focus {
     border-color: transparent;
 }
 
+.logo-back{
+  max-width: 200px;
+  margin-left: 10px;
+}
+
 .logo img {
 	margin-top: 6px;
 }
@@ -346,6 +356,10 @@ header {
 }
 }
 
+.pad-bottom{
+  padding-bottom: 20%;
+}
+
 .pad-xl {
 	padding: 200px 0px;
 }
@@ -403,20 +417,21 @@ hr.line {
 .iphone {
     position: relative;
     text-align: center;
+    max-width: 100%;
 }
+
 
 .gotchu-vid{
   max-width: 100%;
 }
 
-/*.iphone img {
+.laptop {
     margin: 0 auto;
     position: absolute;
     left: 0;
     right: 0;
-    width: 100%;
-    max-width: 440px;
-}*/
+    max-width: 100%;
+}
 
 
 #invite {
@@ -464,6 +479,10 @@ footer {
 
 .social li a:hover {
   opacity: 0.5;
+}
+
+.rest-link{
+  padding-left: 6%;
 }
 
 
