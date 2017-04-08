@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, sma
 }
 
 #pricing{
-  background-color: #70cbce;
+  background-color: #31336c;
 }
 
 .rest-desc{
@@ -16,6 +16,8 @@ h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, sma
 
 p, .lead {
 	font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  color: #31336c;
 }
 
 
@@ -46,19 +48,22 @@ h3 {
 .lead {
   font-size: 21px;
   line-height: 26px;
-  color: #ffffff;
+  /*color: #ffffff;*/
 }
 
 p {
   font-size: 17px;
   line-height: 22px;
-  color: #929496;
+  /*color: #929496;*/
+  color: #5c5c5c;
   font-weight: 400;
 }
 
 /*------------------Utilities---------------------*/
+
+
 a {
-  color: inherit;
+  /*color: inherit;*/
   font-weight: inherit;
   font-size: inherit;
   text-decoration: none;
@@ -240,7 +245,9 @@ a:hover, a:focus {
     position: fixed;
     top: -60px;
     transition: top 0.4s ease 0s;
+
 }
+
 
 .navbar.open {
     top: 0;
@@ -255,6 +262,7 @@ a:hover, a:focus {
 .navbar-inverse .navbar-nav > li > a:hover {
     color: #ffffff;
     opacity: 0.6;
+
 }
 
 .nav > li > a {
@@ -278,6 +286,10 @@ a:hover, a:focus {
 
 .logo img {
 	margin-top: 6px;
+}
+
+.rest-link{
+  padding-top: 5px;
 }
 
 
@@ -312,6 +324,9 @@ header {
   padding-top: 9px;
 }
 
+.nav-spacing{
+  margin-right: 10%;
+}
 
 .mouse-icon {
     border: 2px solid #fff;
@@ -357,7 +372,7 @@ header {
 }
 
 .pad-bottom{
-  padding-bottom: 20%;
+  padding-bottom: 25%;
 }
 
 .pad-xl {
@@ -368,13 +383,19 @@ header {
 	padding: 160px 0px;
 }
 
+.pad-lg-top {
+  padding: 60px 0px 200px 0px;
+}
+
+
 .pad-sm {
-	padding: 80px 0px;
+	padding: 60px 0px;
 }
 
 .pad-xs {
 	padding: 30px 0px;
 }
+
 
 #gotchu-logo{
   width: 50%;
@@ -406,7 +427,7 @@ hr.line {
 
 .blue {
 	border-color: #70cbce;
-	color: #70cbce
+	color: #70cbce;
 }
 
 .yellow {
@@ -453,6 +474,9 @@ hr.line {
   margin: auto;
 }
 
+#rest-info{
+  background-color: #31336c;
+}
 
 
 .news-container {
@@ -477,13 +501,32 @@ footer {
   padding: 40px 0px;
 }
 
-.social li a:hover {
-  opacity: 0.5;
+.footer-pad {
+  padding: 60px 0px 0px 0px;
 }
 
-.rest-link{
-  padding-left: 6%;
+.social {
+  font-size: 1.2em;
+  color: #31336c;
 }
+
+.social li a{
+  color: #31336c;
+  margin-right: .7em;
+}
+
+.social li a:hover {
+  color: #fdc05d;
+}
+
+.email-hello{
+  color: #fdc05d;
+}
+
+.email-hello:hover{
+  color: #70cbce;
+}
+
 
 
 /* ==========================================================================
@@ -552,6 +595,14 @@ footer {
 
 .header-info{
   margin-bottom: 40%;
+}
+
+.pad-bottom{
+  padding-bottom: 12%;
+}
+
+.nav-spacing{
+  margin-right: 0;
 }
 
 }
